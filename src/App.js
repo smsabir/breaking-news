@@ -11,7 +11,7 @@ function App() {
       <h2>React Bootstrap</h2>
       <Header></Header>
       <TopHeadline></TopHeadline>
-      <News></News>
+      
     </div>
   );
 }
